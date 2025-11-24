@@ -1,0 +1,13 @@
+{
+    "seed": 42,
+    "n_series": 3,
+    "series_length": 1500,
+    "input_window": 64,
+    "forecast_horizon": 24,
+    "batch_size": 64,
+    "epochs": 20,
+    "lr": 0.001,
+    "hidden_size": 128,
+    "num_layers": 2,
+    "device": "cpu"
+}
